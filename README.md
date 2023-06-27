@@ -37,7 +37,4 @@ My name is Arkady. I have been studying programming for 3 years. I have a good c
     </p>
 </details>
 
-
 <hr>
-
-[![](https://visitcount.itsvg.in/api?id=belkinark&icon=4&color=12)](https://visitcount.itsvg.in)
